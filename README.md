@@ -16,14 +16,14 @@
 <hr>
 
 <p align="center">
-<a href="#project-details">Project Details</a>|
-<a href="#links">Links</a>|
-<a href="#team">Team</a>|
-<a href="#objectives-accomplished">Objectives Accomplished</a>|
-<a href="#deliverables">Deliverables</a>|
-<a href="#contributions">Contribution</a>|
-<a href="#post-gsoc">Post GSoC</a>|
-<a href="#acknowledgment">Acknowledgement</a>|
+<a href="#project-details">Project Details </a>|
+<a href="#links">Links </a>|
+<a href="#team">Team </a>|
+<a href="#objectives-accomplished">Objectives Accomplished </a>|
+<a href="#deliverables">Deliverables </a>|
+<a href="#contributions">Contribution </a>|
+<a href="#post-gsoc">Post GSoC </a>|
+<a href="#acknowledgment">Acknowledgement </a>
 
 </p>
 <p align="center">Check out my <a href="https://cdli-gh.github.io/blog/gsoc21/digitalLibraryManagement/index">blog</a> or follow me on <a href="https://twitter.com/dakshp07">Twitter</a> for more updates.</p>
