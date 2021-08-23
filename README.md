@@ -115,7 +115,7 @@ Operations handled by the images manager
 
     | **Resulting CSV** |
     | :----: |
-    |<img src="assets/result-csv.png" width="1000" height="450"> |
+    |<img src="assets/result-csv.png" width="1500" height="525"> |
     | These are the few information we are scanning for our requirements. |
 
     </center>
@@ -179,7 +179,7 @@ Operations handled by the images manager
 
     | **Images Table** |
     | :----: |
-    |<img src="assets/table.png" width="1000" height="450"> |
+    |<img src="assets/table.png" width="1375" height="470"> |
     | The structure of images table we decided upon. |
 
     </center>
@@ -285,16 +285,13 @@ During these three months I have completed all the essential objectives which in
 
 ### Objectives
 
-:heavy_check_mark: --> Completed Tasks
-:white_check_mark: --> Ongoing Tasks
-
 | \# | Status  | Objectives                    | Associated Deliverables         | issue(s) |
 | --- | --- | ----------------------------- | ---------------------------------------------- | -------- |
 | 1 | :heavy_check_mark: | Design Pages | Design the pages for viewing archival images, selecting multiple artifacts at a time, upload archival images | [#609](https://gitlab.com/cdli/framework/-/issues/609) |
 | 2 | :heavy_check_mark: | Prepare Image Table | Storing information regarding images in our table | [#87](https://gitlab.com/cdli/framework/-/issues/87) |
 | 3 | :heavy_check_mark: | Work Around Web Images | Allowing the admins to work around the web images by giving them the option to add, edit, delete | [#87](https://gitlab.com/cdli/framework/-/issues/87) |
 | 4 | :heavy_check_mark: | Python Script to store details | A python script to extarct information and dump them in CSV. | [#87](https://gitlab.com/cdli/framework/-/issues/87) |
-| 5 | :white_check_mark: | Dealing with Archival Images | Adding the functionality to convert, view and peform operations on  archival images. | [#87](https://gitlab.com/cdli/framework/-/issues/87) |  
+| 5 | :no_entry_sign: | Dealing with Archival Images | Adding the functionality to convert, view and peform operations on  archival images. | [#87](https://gitlab.com/cdli/framework/-/issues/87) |  
 
 
 ## Contributions
