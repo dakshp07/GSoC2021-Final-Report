@@ -13,8 +13,6 @@
 <h2>Digital Library Management @ <a href="https://github.com/cdli-gh/">CDLI</a></h2>
 </div>
 
-<hr>
-
 <p align="center">
 <a href="#project-details">Project Details </a>|
 <a href="#links">Links </a>|
